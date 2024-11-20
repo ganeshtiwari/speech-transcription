@@ -1,3 +1,4 @@
 .vscode
 .venv/
 api/uploads/
+api/.DS_Store
