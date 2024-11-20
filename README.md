@@ -12,3 +12,4 @@ python api/main.py
 
 ## Frontend 
 Open frontend/main.html in browser
+![alt text](images/image.png)
